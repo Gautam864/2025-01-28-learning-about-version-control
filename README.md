@@ -1,2 +1,3 @@
 # 2025-01-28-learning-about-version-control
-Learning about Version Control - 
+Learning about Version Control 
+Author: Gautam Arora
